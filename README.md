@@ -4,19 +4,20 @@ Assecor Test Assigment Project
 
 ## Description
 
-Asp.net Core 2.1
-IRepository Pattern
-IUnitOfWork
-EntityFrameworkCore
-DbInitializer
-Unit Testing
-IOC
-Swagger
-Middleware
-Automapper
-MSBuild
-CsvHelper
-Format: json,xml
+Asp.net Core 2.1, 
+IRepository Pattern, 
+IUnitOfWork, 
+EntityFrameworkCore, 
+DbInitializer, 
+Unit Testing, 
+IOC, 
+Dependency Injection, 
+Swagger, 
+Middleware, 
+Automapper, 
+MSBuild, 
+CsvHelper, 
+Format: json,xml, 
 
 ## Structure
 
