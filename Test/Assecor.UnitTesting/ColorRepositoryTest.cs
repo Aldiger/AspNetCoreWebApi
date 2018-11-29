@@ -24,7 +24,7 @@ namespace Assecor.UnitTesting
 
             Color savedColor = sut.AddWithReturn(color);
 
-            Assert.Equal(1, sut.GetAll().Count());
+            Assert.NotNull(savedColor);
             Assert.Equal("Black", savedColor.Name);
         }
 
